@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CorrMixed"]
+	path = CorrMixed
+	url = https://github.com/cran/CorrMixed
+	shallow = true
+	registered = true
+[submodule "EffectTreat"]
+	path = EffectTreat
+	url = https://github.com/cran/EffectTreat
+	shallow = true
+	registered = true
+[submodule "Surrogate"]
+	path = Surrogate
+	url = https://github.com/cran/Surrogate
+	shallow = true
+	registered = true
