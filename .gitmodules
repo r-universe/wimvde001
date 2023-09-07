@@ -8,6 +8,3 @@
 [submodule "EffectTreat"]
 	path = EffectTreat
 	url = https://github.com/cran/EffectTreat
-[submodule "Surrogate"]
-	path = Surrogate
-	url = https://github.com/cran/Surrogate
