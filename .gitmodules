@@ -8,3 +8,6 @@
 [submodule "EffectTreat"]
 	path = EffectTreat
 	url = https://github.com/cran/EffectTreat
+[submodule "NormData"]
+	path = NormData
+	url = https://github.com/cran/NormData
